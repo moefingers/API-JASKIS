@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.infinite-syndicate.com/jaskis" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/jaskis?theme=dark&v=28aac7d9a8">
-    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/jaskis?theme=light&v=28aac7d9a8" alt="Animal-bounties registry from the UNLV MongoDB shell tutorial — the museum runs real Mongo shell syntax (find, insertOne, updateMany, $set, $gte, $and) against a Postgres-backed translator so visitors can type the same commands the original exercise used." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/jaskis?theme=dark&v=128f98a545">
+    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/jaskis?theme=light&v=128f98a545" alt="Animal-bounties registry from the UNLV MongoDB shell tutorial — the museum runs real Mongo shell syntax (find, insertOne, updateMany, $set, $gte, $and) against a Postgres-backed translator so visitors can type the same commands the original exercise used." width="100%">
   </picture>
 </a>
 
